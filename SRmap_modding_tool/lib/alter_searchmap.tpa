@@ -2,7 +2,7 @@ DEFINE_ACTION_FUNCTION ~ALTER_SEARCHMAP~
 	INT_VAR
 
 	STR_VAR
-	path_to_2da_file = ~~ // full path to the *changes.2da file containing your icons, e.g. ~mymod/bam/AR3700SR_changes_ee.2da~
+	path_to_2da_file = ~~ // full path to the *changes.2da file, e.g. ~mymod/bmp/AR3700SR_changes_ee.2da~
 	areaname = ~~ 		  // area name, e.g. ~AR3700~
 
 	RET
